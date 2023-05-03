@@ -1,0 +1,15 @@
+/Users/abirislam/Documents/Coding/C#/BossFight/BossFight/bin/Debug/net7.0/BossFight
+/Users/abirislam/Documents/Coding/C#/BossFight/BossFight/bin/Debug/net7.0/BossFight.deps.json
+/Users/abirislam/Documents/Coding/C#/BossFight/BossFight/bin/Debug/net7.0/BossFight.runtimeconfig.json
+/Users/abirislam/Documents/Coding/C#/BossFight/BossFight/bin/Debug/net7.0/BossFight.dll
+/Users/abirislam/Documents/Coding/C#/BossFight/BossFight/bin/Debug/net7.0/BossFight.pdb
+/Users/abirislam/Documents/Coding/C#/BossFight/BossFight/obj/Debug/net7.0/BossFight.csproj.AssemblyReference.cache
+/Users/abirislam/Documents/Coding/C#/BossFight/BossFight/obj/Debug/net7.0/BossFight.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abirislam/Documents/Coding/C#/BossFight/BossFight/obj/Debug/net7.0/BossFight.AssemblyInfoInputs.cache
+/Users/abirislam/Documents/Coding/C#/BossFight/BossFight/obj/Debug/net7.0/BossFight.AssemblyInfo.cs
+/Users/abirislam/Documents/Coding/C#/BossFight/BossFight/obj/Debug/net7.0/BossFight.csproj.CoreCompileInputs.cache
+/Users/abirislam/Documents/Coding/C#/BossFight/BossFight/obj/Debug/net7.0/BossFight.dll
+/Users/abirislam/Documents/Coding/C#/BossFight/BossFight/obj/Debug/net7.0/refint/BossFight.dll
+/Users/abirislam/Documents/Coding/C#/BossFight/BossFight/obj/Debug/net7.0/BossFight.pdb
+/Users/abirislam/Documents/Coding/C#/BossFight/BossFight/obj/Debug/net7.0/BossFight.genruntimeconfig.cache
+/Users/abirislam/Documents/Coding/C#/BossFight/BossFight/obj/Debug/net7.0/ref/BossFight.dll
