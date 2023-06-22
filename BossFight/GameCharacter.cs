@@ -7,7 +7,8 @@ public class GameCharacter
     public int Strength { get; set; }
     public int Stamina { get; set; }
     public int Id { get; set; }
-    public List<GameCharacter> gameCharacters { get; set; }
+    public int TemporaryStrength { get; set; }
+   
 
     public GameCharacter(string characterName, int health, int strength, int stamina, int id)
     {
@@ -17,7 +18,18 @@ public class GameCharacter
         Stamina = stamina;
         Id = id;
     }
-    
+
+    public GameCharacter(string characterName, int health, int strength, int stamina, int id, int temporaryStrength)
+    {
+        CharacterName = characterName;
+        Health = health;
+        Strength = strength;
+        Stamina = stamina;
+        Id = id;
+        TemporaryStrength = temporaryStrength;
+    }
+
+
     public GameCharacter(int health, int stamina)
     {
         Health = health;
